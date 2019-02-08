@@ -1,0 +1,10 @@
+/list.json
+Access-Control-Allow-Origin: chrome-extension://jibjpmgdlmkgkcadpomkglieflbgmpep
+/images/*
+Access-Control-Allow-Origin: chrome-extension://jibjpmgdlmkgkcadpomkglieflbgmpep
+Cache-Control: public, max-age=32400
+/images_icons/*
+Access-Control-Allow-Origin: chrome-extension://jibjpmgdlmkgkcadpomkglieflbgmpep
+Cache-Control: public, max-age=432000
+/
+Access-Control-Allow-Origin: chrome-extension://jibjpmgdlmkgkcadpomkglieflbgmpep
